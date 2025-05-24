@@ -1,0 +1,63 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Data/C-limber/sources/C-limber-jobcon_api" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/blog-runner" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/blog/blog-docker" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/docs" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/docs-runner" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/docslant" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/home-runner" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/knowledge" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/source/automation-runner" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/source/blog-admin" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/source/blog-resource" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/source/blog-runner" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/source/knowledge" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/source/reports" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/source/reports-runner" value="true" />
+        <entry key="$USER_HOME$/Data/CSlant/source/vmc-recruitment-web" value="true" />
+        <entry key="$USER_HOME$/Data/MyRepos/bk-my-linux-mac-os" value="true" />
+        <entry key="$USER_HOME$/Data/MyRepos/dotfiles" value="true" />
+        <entry key="$USER_HOME$/Data/MyRepos/dotfiles_server" value="true" />
+        <entry key="$USER_HOME$/Data/MyRepos/liturgical-calendar-api-laravel" value="true" />
+        <entry key="$USER_HOME$/Data/MyRepos/settings-repository-webstorm-dark" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/docker-meetup-qr-networking" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/git-action" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/repo/devpool-api" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/repo/docs" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/repo/topdop-docs" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/accounts" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/ams" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/api" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/crm" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/employer-dash-v2" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/frontend" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/frontend-v5" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/managemail" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/meetup/cms.meetup.vn" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/meetup/meetup.vn" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/reports" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/source/template-as-php" value="true" />
+        <entry key="$USER_HOME$/Data/TopDev/topdop-dev" value="true" />
+        <entry key="$USER_HOME$/Data/UIT/HK3/TaskManagement" value="true" />
+        <entry key="$USER_HOME$/Data/UIT/HK3/tms-java" value="true" />
+        <entry key="$USER_HOME$/Data/UIT/HK3/tms-java/TaskManagement" value="true" />
+        <entry key="$USER_HOME$/Downloads/QuizAppPHP/untitled" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Data/TopDev" />
+        <option value="$USER_HOME$/Data/MyRepos" />
+        <option value="$USER_HOME$/Data/CSlant/blog" />
+        <option value="$USER_HOME$/Data/CSlant" />
+        <option value="$USER_HOME$/Data/C-limber/sources" />
+        <option value="$USER_HOME$/Data/UIT/HK3" />
+      </list>
+    </option>
+  </component>
+</application>

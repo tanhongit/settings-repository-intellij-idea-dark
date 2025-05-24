@@ -1,0 +1,6 @@
+<application>
+  <component name="GitToolBoxBlameAppConfig">
+    <option name="blameInlineAuthorNameType" value="FULL" />
+    <option name="blameStatusAuthorNameType" value="FULL" />
+  </component>
+</application>
